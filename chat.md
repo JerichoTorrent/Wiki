@@ -1,6 +1,6 @@
 ---
-description: A walkthrough of our chat channels and discord linking.
 icon: comments
+description: A walkthrough of our chat channels and discord linking.
 ---
 
 # Chat
@@ -40,6 +40,8 @@ Yes, we have a chat filter. Womp womp. We occasionally have had family friendly 
 ## More Features
 
 By holding an item in your hand and typing `[item]`, you can display the item in a hoverable message that shows its properties. This can show the item's name, enchantments, attack damage, etc.
+
+By typing `[pos]`, it will display your current coordinates in chat, bypassing the need to manually input them. This is great for asking for help or meeting up with other players.
 
 You can post clickable links in chat, simply include the https protocol of the URL (`https://`) in your message. This is heavily moderated! Do not post unsafe links or advertise other services.
 

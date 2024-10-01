@@ -1,8 +1,8 @@
 ---
+icon: globe
 description: >-
   Questions that have been asked regarding our whole network, Discord, and
   general inquiries.
-icon: globe
 ---
 
 # Global
@@ -53,3 +53,11 @@ No mods are necessary to join. In fact, our server software is based on Bukkit, 
 ### How do I apply for staff?
 
 Make a ticket in #create-a-ticket in our Discord server. From there if you would like to have a more private conversation with the owner, JerichoTorrent, we can hop in a private VC. Staff applications are currently closed, but if a circumstance presents where we open them up, we will announce it to the community.
+
+### Can you add this fabric/forge mod to the server?
+
+No. This isn't a fabric or forge server, therefore it is incompatible with those mods. We also don't just add plugins that players suggest because often times, that player only wants it for some specific feature and isn't thinking about how that affects the game's balance or how the plugin is optimized. If you want a feature, suggest the feature, not some plugin or mod you think will enhance the server. You'd be surprised about the spaghetti code that gets popular on Spigot and CurseForge.
+
+### Can someone help me?
+
+[Don't ask just to ask](https://dontasktoask.com). Simply ask your question with the context necessary to help in your first message.

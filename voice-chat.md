@@ -1,6 +1,6 @@
 ---
-description: How to use proximity voice chat on Torrent Network.
 icon: microphone-lines
+description: How to use proximity voice chat on Torrent Network.
 ---
 
 # Voice Chat
@@ -19,3 +19,5 @@ Drag it into your mods folder or install it directly with the Modrinth app, or y
 After confirming it's installed and working, you should see a microphone logo on your screen indicating that it's picking up your input. If you're on a gamemode where it's not working, or your microphone is not picking up, it will appear in red. To use groups, press "V" and navigate to group settings and make sure your sources are turned up to your preferred settings. Type `/groups create <name> <password>` to create a group.
 
 To invite a player to your group, type `/groups invite <player>`. Now, you can communicate on all servers where Plasmo Voice is installed, from anywhere! You may want to change your activation settings from push to talk to voice, depending on how you want it to work.
+
+Type `/groups set persistent` to make the group last between sessions.

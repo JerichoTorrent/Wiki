@@ -1,8 +1,8 @@
 ---
+icon: road
 description: >-
   The Torrent Roadmap details planned features for the network. Updated
   8/15/2024
-icon: road
 ---
 
 # Roadmap
@@ -20,10 +20,10 @@ icon: road
 * [ ] New cosmetics: pets, mounts, trails, and particle effects
 * [x] Clean up messages, use better hex colors and gradients, text formatting; network wide
 * [ ] Launch SkyFactions
-* [ ] Remake the webstore
+* [x] Remake the webstore
   * [x] Add Bedrock support
   * [x] Move Lifesteal ranks to Global
-  * [ ] More packages on Survival
+  * [x] More packages on Survival
 * [ ] Lobby 2.0
   * [ ] Hall of Shame -> a board for our WORST players in history
   * [ ] Quests with custom rewards
@@ -41,7 +41,8 @@ Survive. Build. Quest. Tear down.
   * [ ] Torrent Act 1 - Main Quest
   * [x] Griffin Station
 * [ ] New quartz armor set (quest/voting reward)
-* [ ] New Ancient Tools set (quest reward)
+* [ ] Chronographer's armor and tools
+* [ ] Ramen noodles (and regular noodles) as well as recipes
 * [ ] Permit office
 * [ ] Auction house
 * [ ] Add `/ad` command to SMP for shops

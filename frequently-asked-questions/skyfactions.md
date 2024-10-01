@@ -1,8 +1,8 @@
 ---
+icon: crown
 description: >-
   Questions about the upcoming SkyFactions server, set to release on October
   15th, 2024.
-icon: crown
 ---
 
 # SkyFactions
@@ -26,3 +26,7 @@ Yes and no. Islands cannot be griefed (blocks cannot be broken,) but containers 
 ### Can a friend help me build on my island?
 
 No, only factions can collaborate on a single island. Your friend can visit you with `/island visit <player>`, but they cannot break or place blocks, nor raid containers.
+
+### How do I buy/upgrade defenses?
+
+Purchase defenses with Runes. You can earn Runes by donating blocks to the Obelisk in the Rune Converter. Upgrading them costs increasingly more Runes.

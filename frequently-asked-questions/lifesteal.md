@@ -1,6 +1,6 @@
 ---
-description: Questions about our MMORPG Lifesteal server.
 icon: swords
+description: Questions about our MMORPG Lifesteal server.
 ---
 
 # Lifesteal
@@ -12,6 +12,10 @@ No.
 ### How do I get more hearts?
 
 [Craft them](../lifesteal/introduction.md), fight the Watchman [boss](../lifesteal/bosses.md), buy a [heart crate key](https://torrent.tebex.io/package/6290037), or kill players.
+
+### How long do I get death banned when I lose all my hearts?
+
+1 day.
 
 ### How many hearts do I respawn with if I get death banned?
 

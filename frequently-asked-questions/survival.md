@@ -1,6 +1,6 @@
 ---
-description: Questions about the Survival server and its in-game systems.
 icon: pickaxe
+description: Questions about the Survival server and its in-game systems.
 ---
 
 # Survival
@@ -15,7 +15,7 @@ Read our full Survival Economy guide [here](../survival/economy.md). In general,
 
 ### **How do I start the main quest?**
 
-Go to spawn (using `/spawn` or the [Teleportation Hub](../survival/teleportation-hub/)) and start the quest BitTorrent Peer-to-Peer Protocol with the Torrent Recruiter. He will take you to the Quest Emporium (near 0/0) which is a hub of sorts. After getting your lay of the land with the quest Travelin' Torrent, given to you by the Torrent Contractor, you will be ready to start the main quest. In the back room of the Quest Emporium is the NPC Direnni. Talk to him to start the 1st quest, An Odd Request.
+Go to spawn (using `/spawn` or the [Teleportation Hub](../survival/teleportation-hub/)) and start the quest BitTorrent Peer-to-Peer Protocol with the Torrent Recruiter. He will take you to the Quest Emporium (near 0/0) which is a hub of sorts. After getting your lay of the land with the quest Travelin' Torrent, given to you by the Torrent Contractor, you will be ready to start the main quest. In the back room of the Quest Emporium is the NPC Direnni. Talk to him to start the 1st quest, [An Odd Request](../survival/quests/clockwork-questline/an-off-request.md).
 
 ### **Can I PvP?**
 
@@ -27,6 +27,10 @@ When you play on a Survival server with one long-running map like ours, elytras 
 
 The ONLY place where you can buy elytras is in the Auction House in the Shopping District at 44/63/33.
 
-### It keeps saying my villager is disabled. How do I fix it?
+### How do I get back to my claim?
 
-If you try to make a trading villager, you must disable it first. Disable the villager by naming it "Bonk" (case sensitive.) It will not use the nametag. To unbonk the villager, simply name it anything else to move it or make it do something else. Farming villagers will still work when disabled, as will iron farm villagers.
+Sleep in a bed to set your spawn. To return to the bed, use the bed portal in the Teleportation Hub.
+
+### Can I build a shop?
+
+To build a shop in the Shopping District, first create a ticket in our Discord or ask an online moderator for help if they are available (don't pester them.) Second, provide your plan for your shop, whether that be a screenshot from a creative world, a showcase of your plot on our creative server, a drawing, or a detailed description of your shop idea. If approved, a moderator will give you a subclaim in the Shopping District to build it, as well as a permit.
