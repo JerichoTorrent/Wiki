@@ -1,8 +1,8 @@
 ---
+icon: plane-engines
 description: >-
   The guide of the epic Movecraft plugin, a highly complex and flexible system
   of aircrafts, watercrafts, and weapons.
-icon: plane-engines
 ---
 
 # Movecraft
@@ -54,13 +54,6 @@ A small fighter jet capable of fast flight.
 - sticky_piston
 - piston
 - piston_head
-- black_wool
-- green_wool
-- red_wool
-- gray_wool
-- light_gray_wool
-- cyan_wool
-- purple_wool
 - gold_block
 - bookshelf
 - torch
@@ -109,13 +102,12 @@ A small fighter jet capable of fast flight.
 - LIGHT_GRAY_CONCRETE
 - CYAN_CONCRETE
 - RED_CONCRETE
-- GREEN_WOOL
-- BLACK_WOOL
+- "#wool"
 ```
 
 </details>
 
-A fighter has a minimum block size requirement of 10 and a maximum of 1,000. The craft must have at least 3 redstone blocks. A fighter is small, so it must have a way to generate lift using white wool, of which 25% of the craft must contain. THERE IS A GLITCH WITH THIS CRAFT WHERE IT WILL NOT DETECT THE WOOL. WILL BE ADDRESSED SOON.
+A fighter has a minimum block size requirement of 10 and a maximum of 1,000. The craft must have at least 2 redstone blocks. A fighter is small, so it must have a way to generate lift using wool, of which 25% of the craft must contain.
 
 ***
 
@@ -205,11 +197,12 @@ A large flying ship that is very versatile.
 - stonecutter
 - PLAYER_HEAD
 - ARMOR_STAND
+- "#wool"
 ```
 
 </details>
 
-An airship has a minimum block size requirement of 1,000 and a maximum of 5,000. 1% of the airship must be redstone blocks, so that means an airship with a size of 1,000 blocks must have 10 redstone blocks.
+An airship has a minimum block size requirement of 1,000 and a maximum of 5,000. The engine requires at least 10 redstone blocks. 10% of the craft must be made out of wool to generate lift.
 
 ***
 
@@ -307,7 +300,7 @@ A large craft capable of flying that moves slowly but domineers over its enemies
 
 </details>
 
-A voyager has a minimum block size requirement of 10,000 and a maximum of 20,000. 0.5% of the craft must be redstone blocks, so that means a craft with a size of 10,000 blocks must have 50 redstone blocks. You can of course split this up into multiple engines, as a craft of this size would normally have.
+A voyager has a minimum block size requirement of 10,000 and a maximum of 20,000. This craft requires 15 redstone blocks to function. 10% of this craft must be made of wool to generate lift.
 
 ***
 
@@ -425,6 +418,7 @@ The hallmark destroyer craft of the Artorian aliens. This was featured flying ac
 - COAL_BLOCK
 - POLISHED_DEEPSLATE_WALL
 - STONE
+- CHISELED_DEEPSLATE
 ```
 
 </details>
@@ -682,27 +676,16 @@ The most basic water-class, the Ship is the most versatile water vessel.
 - WARPED_TRAPDOOR
 - WARPED_WALL_HANGING_SIGN
 - WARPED_WALL_SIGN
-- WHITE_WOOL
-- GRAY_WOOL
-- LIGHT_GRAY_WOOL
-- BLACK_WOOL
-- BLUE_WOOL
-- LIGHT_BLUE_WOOL
-- GREEN_WOOL
-- LIME_WOOL
-- CYAN_WOOL
-- PURPLE_WOOL
-- RED_WOOL
-- MAGENTA_WOOL
-- PINK_WOOL
-- YELLOW_WOOL
-- ORANGE_WOOL
-- BROWN_WOOL
+- "#wool"
+- "#planks"
+- "#wooden_slabs"
 ```
 
 </details>
 
 The Ship is a good choice if you lack redstone, as it's not a requirement. It can be driven without an engine. It also doesn't have requirements of certain blocks other than the ones above. It also contains every wood type, so you can build a classic wooden pirate ship. The minimum size requirement is 100 blocks and the maximum is 10,000.
+
+25% of this craft must be made of wooden planks, and 5% must be made of wool (for the mast.)
 
 ***
 
@@ -794,7 +777,7 @@ A mid-size water vessel.
 
 </details>
 
-A cruiser must have 5% iron blocks to represent ballasts. It will not be able to move under the water. If it's sinking, there's a problem! The minimum size requirement is 1,000 blocks and maximum is 5,000. 1% of the craft must be redstone blocks, so a ship of size 1,000 must have 10 redstone blocks.
+A cruiser must have 5% iron blocks to represent ballasts. It will not be able to move under the water. If it's sinking, there's a problem! The minimum size requirement is 1,000 blocks and maximum is 5,000. This craft requires 10 redstone blocks to function.
 
 ***
 
@@ -886,4 +869,101 @@ The only craft class that can sink below the water.
 
 </details>
 
-This craft does not fly, and can sink below the water when operated. It has to be at least 15% iron blocks. The minimum block requirement is 500 and the maximum is 100,000. This vessel requires permission as well and could be added as a reward.
+This craft does not fly, and can sink below the water when operated. It has to be at least 15% iron blocks. The minimum block requirement is 500 and the maximum is 100,000. This vessel requires [Astronaut Rank](https://torrent.tebex.io/package/6420753) to pilot!
+
+***
+
+## Frigate
+
+A large scale water vessel.
+
+<details>
+
+<summary>Allowed Blocks</summary>
+
+```
+- PLAYER_HEAD
+- ARMOR_STAND
+- lava
+- GLASS
+- lapis_block
+- dispenser
+- note_block
+- RED_BED
+- sticky_piston
+- piston
+- piston_head
+- gold_block
+- iron_block
+- bricks
+- bookshelf
+- gray_concrete
+- light_gray_concrete
+- cyan_concrete
+- red_concrete
+- green_concrete
+- torch
+- fire
+- redstone_wire
+- diamond_block
+- crafting_table
+- furnace
+- blast_furnace
+- smoker
+- ladder
+- lever
+- redstone_torch
+- redstone_wall_torch
+- clay
+- netherrack
+- glowstone
+- cake
+- repeater
+- iron_bars
+- nether_brick
+- enchanting_table
+- brewing_stand
+- cauldron
+- end_stone
+- dragon_egg
+- redstone_lamp
+- ender_chest
+- tripwire_hook
+- tripwire
+- emerald_block
+- beacon
+- flower_pot
+- comparator
+- daylight_detector
+- redstone_block
+- hopper
+- quartz_block
+- chiseled_quartz_block
+- quartz_pillar
+- smooth_quartz
+- activator_rail
+- dropper
+- slime_block
+- coal_block
+- end_stone_bricks
+- smooth_stone
+- bell
+- cartography_table
+- composter
+- fletching_table
+- grindstone
+- lantern
+- lectern
+- loom
+- smithing_table
+- stonecutter
+- GRAY_CONCRETE
+- LIGHT_GRAY_CONCRETE
+- CYAN_CONCRETE
+- RED_CONCRETE
+- iron_bloc
+```
+
+</details>
+
+This craft is a huge water vessel capable of traveling long distances. This is essentially a battleship. This craft requires [Starlord Rank](https://torrent.tebex.io/package/6460925) to pilot it.
