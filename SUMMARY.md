@@ -78,9 +78,6 @@
   * [Other Skills](lifesteal/skills/other-skills.md)
 * [Crates](lifesteal/crates.md)
 * [Enchanting](lifesteal/enchanting.md)
-* [Bosses](lifesteal/bosses.md)
-* [Structures](lifesteal/structures/README.md)
-  * [Loot Chests](lifesteal/structures/loot-chests.md)
 
 ## Creative
 

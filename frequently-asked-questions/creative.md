@@ -5,7 +5,7 @@ description: Questions about the creative server, its plots, and its worlds.
 
 # Creative
 
-### **How do I get permission to play on this server?**
+### **How do I get permission to claim more than 1 plot?**
 
 Earn Builder rank. This rank is given to exceptional members of our server network. Display your building abilities, be active, and be a part of the community. Builders unlock plots in creative mode as well as access to the Torrent lounge in the hub.
 
@@ -19,7 +19,7 @@ In the world you spawn in, Artoria, you can simply double press the spacebar to 
 
 Either you or your friend needs to claim a plot. Then, run the command `/plot trust <player>`.
 
-### **How do I claim more plots, or bigger plots?**
+### **How do I claim bigger plots?**
 
 Buy plot tokens in our [webstore](https://torrent.tebex.io/category/creative-plots).
 

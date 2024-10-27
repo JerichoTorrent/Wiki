@@ -11,7 +11,7 @@ No.
 
 ### How do I get more hearts?
 
-[Craft them](../lifesteal/introduction.md), fight the Watchman [boss](../lifesteal/bosses.md), buy a [heart crate key](https://torrent.tebex.io/package/6290037), or kill players.
+[Craft them](../lifesteal/introduction.md), buy a [heart crate key](https://torrent.tebex.io/package/6290037), or kill players.
 
 ### How long do I get death banned when I lose all my hearts?
 
@@ -25,26 +25,22 @@ You will respawn with 5 hearts if your death ban expires, or if you get revived 
 
 Yes.
 
-### **How do I get to the major** [**Structures**](../lifesteal/structures/)**?**
+### When does Season 2 launch?
 
-Follow the paths, or check out the [map](https://map.torrentsmp.com), where it is marked with map markers.
+If all goes well, October 31st, 2024. We are planning to have an Anarchy Day on October 30th, in which players can grief spawn and use hacked clients. When Anarchy Day closes, we would like to launch Lifesteal Season 2 the very next day if development allows for it.
 
-### How often do the loot chests regenerate?
+### How often are key-alls in Season 2?
 
-Once daily per player for all structures.
-
-### How often do the bosses spawn?
-
-Some [bosses](../lifesteal/bosses.md) have different spawning rules than others. Some bosses will instantly respawn after being killed. Mini-bosses like the Hollowed Prince respawn once an hour. Most main bosses like King Jericho respawn once daily if killed (good luck with that.) Yes, you have the same chance of getting their drops each time you kill them.
-
-### How long will Season 1 last?
-
-Likely, 5 months. That is usually around how long it takes for people to start getting extremely OP with kits, skills, and money. As we wind down to the end of Season 1, we'll start giving sneak peaks about Season 2, which we already have EPIC plans for. The last day of Season 1, which we project will be October 31st (ooh spooky,) we will have a hardcore anarchy day. Essentially, all world protections will be turned off and you can grief spawn. You will also only have one life left. The last man standing at the end of the day wins an exclusive rank for Season 2! We will plan to launch Season 2 the very next morning, so be ready.
-
-### When will X boss respawn?
-
-I don't know. There are no placeholders I can use to determine when it will next spawn. You will have to check and see when it was last killed.
+Rare key-alls will take place every 3 hours during Season 2.
 
 ### How often is KoTH?
 
 King of the Hill runs every 2 hours.
+
+### What's up with the percentage value when reporting players?
+
+The honor value (integer) represents the total honor a player has, either positive or negative. For various reasons it's also easier to express it as a percentage, so in the GUI that is how it shows up. Every 2 honor points raises or lowers the percentage by 1. 0% means -100 honor, while 100% means +100 honor.
+
+### When will the guild system be introduced?
+
+Guilds will likely be implemented around the 1 month mark of Season 2. This should give players enough time to build up honor in either direction to join one of the two guilds. For now, honor is a measure of a player's character.

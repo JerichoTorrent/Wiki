@@ -14,7 +14,7 @@ Level Requirement: 10
 
 This ability allows you to find treasure from fishing with a small chance of the items being enchanted. Every possible treasure for Angling has a chance to drop on any level. The rarity of the item determines how often it will drop. The higher your Angling skill is, the better your chances are to find better treasures. It is paired with **Soul Hunter** to also give enchanted items.
 
-Each treasure is organized into one of six categories, the same as [Loot Chests](../structures/loot-chests.md), increasing in tier:
+Each treasure is organized into one of six categories, the same as [Loot Chests](broken-reference), increasing in tier:
 
 * Common
 * Uncommon
@@ -62,7 +62,7 @@ This passive skill increases the bite chance while fishing. When you've unlocked
 
 Level Requirement: 15
 
-This active ability allows you to shake items loose from [Bosses](../bosses.md) by hooking them with the fishing rod. Mobs will drop items they would normally drop on death. It is also possible to acquire mob skulls, which are normally much more difficult to obtain in survival mode.
+This active ability allows you to shake items loose from [Bosses](broken-reference) by hooking them with the fishing rod. Mobs will drop items they would normally drop on death. It is also possible to acquire mob skulls, which are normally much more difficult to obtain in survival mode.
 
 Shakedown items off of mobs or players with your fishing pole.
 

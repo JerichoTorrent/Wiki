@@ -44,7 +44,7 @@ Survive. Build. Quest. Tear down.
 * [ ] Chronographer's armor and tools
 * [ ] Ramen noodles (and regular noodles) as well as recipes
 * [ ] Permit office
-* [ ] Auction house
+* [x] Auction house
 * [ ] Add `/ad` command to SMP for shops
 * [ ] Add feature to use invisible item frames
 * [ ] Add tractor to Movecraft
@@ -54,6 +54,9 @@ Survive. Build. Quest. Tear down.
 This server will take place in a western-themed wasteland. This will take place approximately 13,800 years after the Torrent Apocalypse of Lifesteal Season 1 (still pre-Survival.)
 
 * [ ] Western-themed spawn
+* [x] Honor system
+* [ ] Bounty Hunters & Outlaws Guilds
+* [ ] Lifesteal equivalent to the builder rank on SMP
 * [ ] Sheriff NPC in a sheriff's office with a bounty board on the wall. Complete with a jail
 * [x] NO KeepInventory
 * [ ] Crashed UFO near spawn for KoTH with custom status effects in the region
@@ -80,7 +83,9 @@ This server will take place in a western-themed wasteland. This will take place 
 * [x] Movecraft deprecated block tags (#chests) breaking crafts
 * [x] Network Protocol Error on Lifesteal
 * [x] Teleportation Master on Survival lacks perms
-* [ ] Duplicate chat when Minehut players join the server
+* [x] Duplicate chat when Minehut players join the server
 * [ ] Players cannot pm Minehut players and vice versa
 * [ ] Io.netty errors on Survival
-* [ ] Killing Cravens on Lifesteal yields no money despite coded to give players money upon killing them
+* [x] Killing Cravens on Lifesteal yields no money despite coded to give players money upon killing them
+* [ ] Fix weird spacing between rank and name above player heads
+*

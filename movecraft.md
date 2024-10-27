@@ -9,9 +9,11 @@ description: >-
 
 Movecraft allows us to build classes of moveable ships on the Network. This'll be a long guide so you may need to refer to it several times. Documentation on this plugin is quite disorganized so I've tried to condense the client-side of it to one page for simplicity. You can build ships out of only the allowed blocks; anything else on the ship will prevent it from flying or moving in water. If there is a block type you want to use and it's not included in the blocks list, open a ticket in discord. You also have to be aware of the engine, fuel, speed, and how to pilot it.
 
-## **How to build a ship**:
+## **How to build a ship**
 
-First, check the block list of the class of craft you want to create below. Build your craft and make sure you follow the minimum and maximum size requirements. It is also advisable to build it slightly above the ground, or in the water. Another necessary component is the required blocks, meaning a certain percentage of your blocks must be a certain material in order for the ship to move. These blocks represent flight or movement in water. Ships also have a fuel requirement, meaning you must have a furnace that is filled with fuel that the ship can burn to move. It's recommended to keep a chest nearby filled with fuel. Lastly, you must use redstone blocks as the engine, and a certain percentage of your ship must be redstone blocks to move it. \
+First, check the block list of the class of craft you want to create below. Build your craft and make sure you follow the minimum and maximum size requirements. It is also advisable to build it slightly above the ground, or in the water. Another necessary component is the required blocks, meaning a certain percentage of your blocks must be a certain material in order for the ship to move. These blocks represent flight or movement in water. Ships also have a fuel requirement, meaning you must have a furnace that is filled with fuel that the ship can burn to move. It's recommended to keep a chest nearby filled with fuel. Lastly, you must use redstone blocks as the engine, and a certain percentage of your ship must be redstone blocks to move it.&#x20;
+
+\
 Each of those components will be detailed below by class. In order to allow your craft to be detected as a legitimate craft, you must place a sign on the ship with the name as the corresponding craft type, then you click the sign to begin piloting it. If there are any errors in your craft's design, it will tell you in chat. If it's successful, it will tell you that you have successfully piloted the craft.
 
 ## **How to pilot a craft**
@@ -22,11 +24,11 @@ In order to pilot your craft you have 3 options: flying tool, commands, or signs
 
 You can place signs on your craft that correspond to certain actions. The sign must be named exactly as detailed in this guide or it will not function as an actionable sign. Check out this [guide](https://github.com/APDevTeam/Movecraft/wiki/Control-Signs) on signs. If you do the signs correctly, you can click on them to do different commands. A requirement of any craft is a sign with the exact name of the craft.
 
-**Flying Classes**:
+## **Flying Classes**
 
 ***
 
-## **Fighter**
+### **Fighter**
 
 A small fighter jet capable of fast flight.
 
@@ -111,7 +113,7 @@ A fighter has a minimum block size requirement of 10 and a maximum of 1,000. The
 
 ***
 
-## **Airship**
+### **Airship**
 
 A large flying ship that is very versatile.
 
@@ -206,7 +208,7 @@ An airship has a minimum block size requirement of 1,000 and a maximum of 5,000.
 
 ***
 
-## **Voyager**
+### **Voyager**
 
 A large craft capable of flying that moves slowly but domineers over its enemies.
 
@@ -304,7 +306,7 @@ A voyager has a minimum block size requirement of 10,000 and a maximum of 20,000
 
 ***
 
-## **Dreadnought**
+### **Dreadnought**
 
 The hallmark destroyer craft of the Artorian aliens. This was featured flying across the SMP during the Alien Invasion Event on November 26, 2023. It is now located above the Shopping District. This craft requires permission to pilot, due to its significance on the network. This may be added as an event reward in the future.
 
@@ -427,7 +429,7 @@ This vessel has a minimum size requirement of 15,000 blocks and a maximum size o
 
 ***
 
-## **Ship**
+### **Ship**
 
 The most basic water-class, the Ship is the most versatile water vessel.
 
@@ -689,7 +691,7 @@ The Ship is a good choice if you lack redstone, as it's not a requirement. It ca
 
 ***
 
-## **Cruiser**
+### **Cruiser**
 
 A mid-size water vessel.
 
@@ -781,7 +783,7 @@ A cruiser must have 5% iron blocks to represent ballasts. It will not be able to
 
 ***
 
-## **Submarine**
+### **Submarine**
 
 The only craft class that can sink below the water.
 
@@ -873,7 +875,7 @@ This craft does not fly, and can sink below the water when operated. It has to b
 
 ***
 
-## Frigate
+### Frigate
 
 A large scale water vessel.
 

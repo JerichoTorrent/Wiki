@@ -1,8 +1,8 @@
 ---
+icon: arrow-right-to-arc
 description: >-
   Intro to our fully original gamemode, SkyFactions, developed by Skullians and
   JerichoTorrent!
-icon: arrow-right-to-arc
 ---
 
 # Introduction
@@ -15,8 +15,11 @@ This gamemode is an elegant synthesis of the popular gamemodes Skyblock and Fact
 
 ## Features
 
+* A high performance skyblock implementation
+* The ability to create and join powerful factions
+* High quality defenses that can defend your island in your stead
 * Advanced raid mechanics for players and factions
-* Custom unique currency called "gems"
+* Custom unique currencies called Gems and Runes
 * An island administration tool known as an "Obelisk"
 * Tiered combat system similar to skill-based matchmaking
 * Leaderboards, reward systems, and skyblock quest mechanics

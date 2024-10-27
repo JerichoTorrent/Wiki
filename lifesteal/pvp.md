@@ -1,6 +1,6 @@
 ---
-description: An explanation of the PvP mechanics on Torrent Lifesteal.
 icon: sword
+description: An explanation of the PvP mechanics on Torrent Lifesteal.
 ---
 
 # PvP
@@ -19,7 +19,7 @@ When you enter combat, you will be combat tagged. The combat tag timer is 30 sec
 
 ## King of the Hill
 
-Every two hours, King of the Hill will start near spawn. After the first rope bridge, take a left to get to KoTH. The player in the red square for the longest is declared the winner. One needs to remain within the KoTH square until at least the last 15 seconds of KoTH to win. The prizes are equivalent to a rare [loot chest](structures/loot-chests.md).
+Every two hours, King of the Hill will start near spawn. After the first rope bridge, take a left to get to KoTH. The player in the red square for the longest is declared the winner. One needs to remain within the KoTH square until at least the last 15 seconds of KoTH to win. The prizes are equivalent to a rare [loot chest](broken-reference).
 
 Note: This isn't some kind of special mini-game where KeepInventory is on. You can still lose hearts and items. That's the risk you are taking.
 
@@ -37,4 +37,4 @@ Bounties are viewable in the `/bounty` menu as well as on the bounty board at sp
 
 ## Other Metas
 
-Many other PvP metas may become useful over time, or be discovered by the player base. These includes advanced [enchantments](enchanting.md), MMO [skills](skills/), [teaming](teams.md), TPA trapping, and many more. You can use any tools at your disposal to defeat other players. Safari Nets may be useful to distract an opponent with a mob you've captured. Finding custom items in [loot chests](structures/loot-chests.md) or defeating [bosses](bosses.md) may also prove fruitful. Get creative and discover the new Torrent Lifesteal meta yourself!
+Many other PvP metas may become useful over time, or be discovered by the player base. These includes advanced [enchantments](enchanting.md), MMO [skills](skills/), [teaming](teams.md), TPA trapping, and many more. You can use any tools at your disposal to defeat other players. Safari Nets may be useful to distract an opponent with a mob you've captured. Finding custom items in [loot chests](broken-reference) or defeating [bosses](broken-reference) may also prove fruitful. Get creative and discover the new Torrent Lifesteal meta yourself!
