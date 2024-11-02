@@ -1,6 +1,6 @@
 ---
-description: The introductory guide to the Lifesteal gamemode.
 icon: arrow-right-to-arc
+description: The introductory guide to the Lifesteal gamemode.
 ---
 
 # Introduction
@@ -9,16 +9,14 @@ Lifesteal is a gamemode in which every time you die, you lose a heart. Like norm
 
 When you die too many times and lose your final heart, you will be eliminated. The ban only lasts a day.
 
-However, killing players is not the only way to farm hearts. You can also craft them, or earn them by looting structures, boss fights, buying a heart crate, and events. To craft heart fragments, use this recipe:
+However, killing players is not the only way to farm hearts. You can also craft them, or earn them by completing our custom questlines.
 
-<figure><img src="../.gitbook/assets/heartfragment.png" alt=""><figcaption><p>The heart fragment</p></figcaption></figure>
 
-By combining multiple heart fragments together along with other items, you can craft a full heart. However, it is very expensive:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>The full heart item</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-10-31 183327.png" alt=""><figcaption><p>Heart Item</p></figcaption></figure>
 
-Say your buddy dies on the server for the final time and loses his last heart. He would at that point be DEATH BANNED! Fret not, however. You can revive him with the mythical revive beacon:
+Say your buddy dies on the server for the final time and loses his last heart. He would at that point be DEATH BANNED! Fret not, however. You can revive him with the mythical revive crystal:
 
-<figure><img src="../.gitbook/assets/revivebeacon.png" alt=""><figcaption><p>The revive beacon</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2024-11-01_194733244.png" alt=""><figcaption></figcaption></figure>
 
-The revive beacon is insanely expensive of course, but it's always good to have in your back pocket. When you are revived, you will respawn with 5 hearts.
+The revive crystal is insanely expensive of course, but it's always good to have in your back pocket. When you are revived, you will respawn with 5 hearts.

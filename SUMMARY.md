@@ -78,6 +78,7 @@
   * [Other Skills](lifesteal/skills/other-skills.md)
 * [Crates](lifesteal/crates.md)
 * [Enchanting](lifesteal/enchanting.md)
+* [Honor System](lifesteal/honor-system.md)
 
 ## Creative
 

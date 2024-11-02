@@ -1,8 +1,8 @@
 ---
+icon: sack-dollar
 description: >-
   There are several ways to make money, as well as multiple forms of currency.
   Explore them to become the most OP. Special thanks to Kishku7 for this page!
-icon: sack-dollar
 ---
 
 # Economy
@@ -24,6 +24,8 @@ Player Commands:&#x20;
 ## AFK Pit
 
 Torrent Lifesteal has an AFK Pit that rewards you for being AFK in a designated area under /spawn. Your rewards can include in-game money as well as crate keys allowing you to unlock epic rewards. There are no player commands to take advantage of the pit, and you'll receive an in-game title when you enter this area. Check out [crates](crates.md) for information about the AFK crate itself.
+
+<figure><img src="../.gitbook/assets/2024-11-01_20.59.18.png" alt=""><figcaption><p>AFK Pit</p></figcaption></figure>
 
 ## Auction House
 

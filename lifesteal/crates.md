@@ -1,13 +1,21 @@
 ---
+icon: box
 description: >-
   You can buy crate keys in our webstore, as well as earn them through playing
   on our Lifesteal server. Left click on the crate to view its rewards.
-icon: box
 ---
 
 # Crates
 
 Crates are located right in front of the world spawn point. Each crate contains many rewards. Check out our crate key packages in our [store](https://torrent.tebex.io). Each crate except the spawner crate and the heart crate contain a small probability of dropping keys to other crates. Each crate has one reward per unlock, save for the Lifesteal crate which has 3.
+
+The most powerful crate by far, the Nexus crate contains the exclusive Nexus armor and tools set, heart items, revive crystals, and custom enchanting upgrades. This crate gives the most rewards per pull; you get 3 rewards for each key. Use `/buy` or visit our [webstore](https://torrent.tebex.io) to purchase a key.
+
+## Nexus
+
+<figure><img src="../.gitbook/assets/2024-11-01_21.01.06.png" alt=""><figcaption><p>Nexus Crates</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image_2024-11-01_210156156.png" alt=""><figcaption><p>Nexus Crate Rewards</p></figcaption></figure>
 
 ## Vote
 
@@ -19,8 +27,6 @@ The vote crate contains rewards from [voting](../voting.md). You can use `/votes
 
 Going AFK in the AFK Pit can earn you rewards including money straight into your account, as well as AFK crate keys. The AFK crate contains one reward per pull.
 
-<figure><img src="../.gitbook/assets/2024-05-18_22.27.42.png" alt=""><figcaption><p>AFK Pit</p></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image_2024-09-24_105722129.png" alt=""><figcaption><p>AFK Crate Rewards</p></figcaption></figure>
 
 ## Spawner
@@ -28,12 +34,6 @@ Going AFK in the AFK Pit can earn you rewards including money straight into your
 The spawner crate contains a plethora of spawners from many different mobs. Depending on which one you pull, this could be a game changer for you. Use `/buy` or visit our [webstore](https://torrent.tebex.io) to purchase a key.
 
 <figure><img src="../.gitbook/assets/image_2024-09-24_105531047.png" alt=""><figcaption><p>Spawner Crate Rewards</p></figcaption></figure>
-
-## Clockwork
-
-The most powerful crate by far, the Clockwork crate contains the exclusive Clockwork armor and tools set, heart items, revive beacons, Safari Nets, and custom enchanting upgrades. This crate gives the most rewards per pull; you get 3 rewards for each key. Use `/buy` or visit our [webstore](https://torrent.tebex.io) to purchase a key.
-
-<figure><img src="../.gitbook/assets/2024-09-24_10.52.11.png" alt=""><figcaption><p>Clockwork Crate</p></figcaption></figure>
 
 ## Heart
 

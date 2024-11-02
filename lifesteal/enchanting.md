@@ -9,7 +9,7 @@ By using the Enchanter NPC at spawn, you can purchase enchantments for your tool
 
 You can also gain custom enchantments from the Vanilla enchantment table, which has a 45% chance of having one of the enchantments in the [table](enchanting.md#enchantments-list).
 
-<figure><img src="../.gitbook/assets/2024-05-18_22.30.31.png" alt=""><figcaption><p>The enchanter and tinkerer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-11-01_19.40.29.png" alt=""><figcaption><p>Enchanter and Tinkerer</p></figcaption></figure>
 
 ## Enchanter
 
@@ -45,7 +45,7 @@ Track the number of blocks broken by a tool. **COMING SOON**
 
 ### **StatTrak**
 
-Track the number of kills from your weapon. **COMING SOON**
+Track the number of kills from your weapon.
 
 ### **Holy White Scroll**
 

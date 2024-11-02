@@ -27,7 +27,7 @@ Yes.
 
 ### When does Season 2 launch?
 
-If all goes well, October 31st, 2024. We are planning to have an Anarchy Day on October 30th, in which players can grief spawn and use hacked clients. When Anarchy Day closes, we would like to launch Lifesteal Season 2 the very next day if development allows for it.
+November 2nd, 2024.
 
 ### How often are key-alls in Season 2?
 
