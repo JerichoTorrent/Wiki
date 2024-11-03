@@ -25,13 +25,13 @@ You will respawn with 5 hearts if your death ban expires, or if you get revived 
 
 Yes.
 
-### When does Season 2 launch?
+### When did Season 2 launch?
 
 November 2nd, 2024.
 
 ### How often are key-alls in Season 2?
 
-Rare key-alls will take place every 3 hours during Season 2.
+Rare key-alls will take place once daily in Season 2. When is it you might ask? Who knows? Better be online 24/7 just to be safe.
 
 ### How often is KoTH?
 
@@ -44,3 +44,7 @@ The honor value (integer) represents the total honor a player has, either positi
 ### When will the guild system be introduced?
 
 Guilds will likely be implemented around the 1 month mark of Season 2. This should give players enough time to build up honor in either direction to join one of the two guilds. For now, honor is a measure of a player's character.
+
+### How long will Season 2 last?
+
+Season 1 lasted 5 months (June 1st,2024 -> October 31st, 2024). If we have the same level of activity, Season 2 will also last 5 months. However, if players are still active and having fun, which honestly is expected due to the excitement surrounding the release, we will probably continue the season for longer. Essentially, it depends on you!

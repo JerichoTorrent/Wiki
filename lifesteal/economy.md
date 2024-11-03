@@ -21,6 +21,10 @@ Player Commands:&#x20;
 
 `/sellgui` - Opens an empty inventory where you can drop items to sell. Closing the GUI completes the transaction. Any items that could not be sold are automatically given back.
 
+### Neotech Shop
+
+The aliens have brought some gear from Artoria to kit up some bounty hunters to help them with their cause. Coming soon!
+
 ## AFK Pit
 
 Torrent Lifesteal has an AFK Pit that rewards you for being AFK in a designated area under /spawn. Your rewards can include in-game money as well as crate keys allowing you to unlock epic rewards. There are no player commands to take advantage of the pit, and you'll receive an in-game title when you enter this area. Check out [crates](crates.md) for information about the AFK crate itself.

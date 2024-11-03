@@ -79,6 +79,7 @@
 * [Crates](lifesteal/crates.md)
 * [Enchanting](lifesteal/enchanting.md)
 * [Honor System](lifesteal/honor-system.md)
+* [Quests](lifesteal/quests.md)
 
 ## Creative
 
