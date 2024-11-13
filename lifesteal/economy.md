@@ -23,7 +23,9 @@ Player Commands:&#x20;
 
 ### Neotech Shop
 
-The aliens have brought some gear from Artoria to kit up some bounty hunters to help them with their cause. Coming soon!
+The aliens have brought some gear from Artoria to kit up some bounty hunters to help them with their cause. You can find this in the General Store at Spawn.
+
+<figure><img src="../.gitbook/assets/2024-11-06_16.05.38.png" alt=""><figcaption><p>Neotech Shop</p></figcaption></figure>
 
 ## AFK Pit
 

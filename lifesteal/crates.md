@@ -13,6 +13,8 @@ The most powerful crate by far, the Nexus crate contains the exclusive Nexus arm
 
 ## Nexus
 
+The Nexus Crate is a mythical crate that produces 3 epic rewards per opening. You can purchase Nexus Keys in our [webstore](https://torrent.tebex.io/package/6420611).
+
 <figure><img src="../.gitbook/assets/2024-11-01_21.01.06.png" alt=""><figcaption><p>Nexus Crates</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image_2024-11-01_210156156.png" alt=""><figcaption><p>Nexus Crate Rewards</p></figcaption></figure>

@@ -1,8 +1,8 @@
 ---
+icon: square-poll-vertical
 description: >-
   Voting for the servers is one of the quickest ways to make money and earn
   rewards, as well as support our servers.
-icon: square-poll-vertical
 ---
 
 # Voting
@@ -18,6 +18,7 @@ You can spend your voting points in `/voteshop`. Currently, you can exchange vot
 | Survival/Lifesteal | Diamond         | 3 Voting Points   |
 | Survival/Lifesteal | $10,000         | 10 Voting Points  |
 | Survival/Lifesteal | Mending Book    | 50 Voting Points  |
+| Lifesteal          | Gem             | 50 Voting Points  |
 | Survival/Lifesteal | Elytra          | 100 Voting Points |
 | Survival/Lifesteal | Blade of Traxis | 100 Voting Points |
 
@@ -37,11 +38,17 @@ You can spend your voting points in `/voteshop`. Currently, you can exchange vot
 12. [play-minecraft-servers](https://play-minecraft-servers.com/minecraft-servers/torrent-network/?tab=vote)
 13. [minecraft-server](https://minecraft-server.net/vote/Torrent/)
 14. [minecraftlist](https://minecraftlist.org/vote/31023)
-15. [topmcserver](https://topmcserver.com/server\_details?id=35)
+15. [top-mc-server](https://top-mc-servers.net/server/334#vote)
 16. [minebrowse](https://minebrowse.com/server/5381)
 17. [mcservertime](https://mcservertime.com/server-torrent-network.2169/vote)
 18. [trackyserver](https://www.trackyserver.com/server/2507118#vote)
 
 ## Vote Party
 
-Work in progress!
+Every time the server reaches 100 votes, we have a party! This _only_ applies to players that have voted during the length of the party. When the vote party is reached, all players receive the following rewards:
+
+* 10 vote keys
+* 1 legendary key
+* $10,000
+* 5 diamonds
+* 2 gems (Lifesteal and SkyFactions only)

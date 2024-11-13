@@ -1,6 +1,6 @@
 ---
-description: The beginner's guide to getting started on Torrent Network.
 icon: play
+description: The beginner's guide to getting started on Torrent Network.
 ---
 
 # Getting Started
@@ -27,6 +27,6 @@ Note: due to exploits and attempted crashes (mainly from Minehut players) this s
 
 ## <mark style="color:red;">**Lifesteal**</mark>
 
-This server is a real challenge. If you die, you lose a heart, but you can kill a player to gain a heart. If you die and lose all your hearts, you are death banned for 1 day and will respawn with 5 hearts. You can also craft hearts. If you're eliminated, you can be revived with a revive beacon. This server has custom items, skills, advanced enchantments, custom bosses with loot tables, and much more.\
+This server is a real challenge. If you die, you lose a heart, but you can kill a player to gain a heart. If you die and lose all your hearts, you are death banned for 1 day and will respawn with 5 hearts. You can also craft hearts. If you're eliminated, you can be revived with a revive crystal. This server has custom items, skills, advanced enchantments, a custom honor and reputation system, and much more.\
 \
-It is highly recommended to NOT accept any TPA requests to avoid getting trapped and killed by other players. It is instead advised to gear up, fight bosses, and gain power on the server. Farming XP and opening crates, as well as adding advanced enchants to your gear, will significantly increase your power level. Fighting bosses and looting structures will level you up even more. Overall, simply playing on the server to level up your skills, abilities, and gear, will greatly increase your chances of succeeding in PvP. However, nothing can account for pure skill. So get good!
+It is highly recommended to NOT accept any TPA requests to avoid getting trapped and killed by other players. It is instead advised to gear up, engage with our custom mechanics like fishing, and gain power on the server. Farming XP and opening crates, as well as adding advanced enchants to your gear, will significantly increase your power level. Overall, simply playing on the server to level up your skills, abilities, and gear, will greatly increase your chances of succeeding in PvP. However, nothing can account for pure skill. So get good!

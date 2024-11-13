@@ -1,13 +1,13 @@
 ---
-description: Torrent Network has had many significant lore-related events.
 icon: align-justify
+description: Torrent Network has had many significant lore-related events.
 ---
 
 # Lore
 
 ## Backstory
 
-14,000 years before the Modern Era, the Ancient Builders were the ruling class of Torrent. They experimented with a magic known as Soul Affinity, opening a portal to another realm called the Slate Dimension. This led to an apocalyptic event known as the [Convergence](the-convergence.md). This time period is when Torrent Lifesteal takes place.\
+14,000 years before the Modern Era, the Ancient Builders were the ruling class of Torrent. They experimented with a magic known as Soul Affinity, opening a portal to another realm called the Slate Dimension. This led to an apocalyptic event known as the [Convergence](the-convergence.md). This time period is when Torrent Lifesteal Season 1 takes place.\
 \
 A race known as the Artorians played a significant role in the apocalypse. They went through a civil war at the time, and Artorius Prime went back to the Slate Dimension to their home world of Artoria. For 14,000 years they conquered other realms. Their attention finally focused again on Torrent when they discovered vestiges of Soul Affinity arising once again. This led to the Alien Invasion event, an epic tale of Torrent. This event was supported by the [Movecraft](../movecraft.md) plugin, in which real air-based battles were possible on the server.
 
