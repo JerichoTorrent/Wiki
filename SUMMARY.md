@@ -60,6 +60,7 @@
 * [PvP](lifesteal/pvp.md)
 * [Teams](lifesteal/teams.md)
 * [Economy](lifesteal/economy.md)
+* [Fishing](lifesteal/fishing.md)
 * [Skills](lifesteal/skills/README.md)
   * [Anti-Grav Drive](lifesteal/skills/anti-grav-drive.md)
   * [Philosopher's Stone](lifesteal/skills/philosophers-stone.md)

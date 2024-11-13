@@ -7,7 +7,7 @@ description: >-
 
 # Crates
 
-Crates are located right in front of the world spawn point. Each crate contains many rewards. Check out our crate key packages in our [store](https://torrent.tebex.io). Each crate except the spawner crate and the heart crate contain a small probability of dropping keys to other crates. Each crate has one reward per unlock, save for the Lifesteal crate which has 3.
+Crates are located right in front of the world spawn point. Each crate contains many rewards. Check out our crate key packages in our [store](https://torrent.tebex.io). Each crate except the spawner crate and the heart crate contain a small probability of dropping keys to other crates. Each crate has one reward per unlock, save for the Nexus crate which has 3.
 
 The most powerful crate by far, the Nexus crate contains the exclusive Nexus armor and tools set, heart items, revive crystals, and custom enchanting upgrades. This crate gives the most rewards per pull; you get 3 rewards for each key. Use `/buy` or visit our [webstore](https://torrent.tebex.io) to purchase a key.
 
