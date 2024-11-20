@@ -2,7 +2,8 @@
 icon: sack-dollar
 description: >-
   There are several ways to make money, as well as multiple forms of currency.
-  Explore them to become the most OP. Special thanks to Kishku7 for this page!
+  Explore them to become the most OP. Special thanks to Kishku7 for helping with
+  this page!
 ---
 
 # Economy
@@ -23,9 +24,22 @@ Player Commands:&#x20;
 
 ### Neotech Shop
 
-The aliens have brought some gear from Artoria to kit up some bounty hunters to help them with their cause. You can find this in the General Store at Spawn.
+The aliens have brought some gear from Artoria to kit up some bounty hunters to help them with their cause. You can find this in the General Store at Spawn. The Neotech Shop sells the custom Neotech Weapon Set as well as legendary pickaxes with custom abilities.
 
 <figure><img src="../.gitbook/assets/2024-11-06_16.05.38.png" alt=""><figcaption><p>Neotech Shop</p></figcaption></figure>
+
+## Heart Shop
+
+Located behind the General Store, the Heart Shop is a location where you can buy boosters and other items with hearts straight from your health bar. By clicking on the NPC, it will open up a GUI with a few upgrades:
+
+* Soul Affinity XP Boosters: Starting at 2 hearts for a 25% boost, up to double XP.
+* Reset Honor: 5 hearts; allows you to absolve yourself of all sins and good deeds, resetting your honor to 0.
+* Magic Dust Bundle: 1 heart; comes with 1 magic dust of random chance for each enchanting tier except Unique.
+* Stattrak: 5 hearts; gives you an item that when applied to a weapon, starts tracking kills in the item lore.
+* Blocktrak: 5 hearts; gives you an item that when applied to a tool, starts tracking blocks mined in the item lore.
+* Gem: 10 hearts; a custom currency item with a wide range of uses. Can be used to buy custom items in the Neotech shop, and traded as a rare currency.
+
+<figure><img src="../.gitbook/assets/2024-11-17_16.23.12.png" alt=""><figcaption><p>Heart Shop</p></figcaption></figure>
 
 ## AFK Pit
 
