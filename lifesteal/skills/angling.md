@@ -62,7 +62,7 @@ This passive skill increases the bite chance while fishing. When you've unlocked
 
 Level Requirement: 15
 
-This active ability allows you to shake items loose from [Bosses](broken-reference) by hooking them with the fishing rod. Mobs will drop items they would normally drop on death. It is also possible to acquire mob skulls, which are normally much more difficult to obtain in survival mode.
+This active ability allows you to shake items loose from mobs by hooking them with the fishing rod. Mobs will drop items they would normally drop on death. It is also possible to acquire mob skulls, which are normally much more difficult to obtain in survival mode.
 
 Shakedown items off of mobs or players with your fishing pole.
 
