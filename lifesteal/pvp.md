@@ -19,7 +19,7 @@ When you enter combat, you will be combat tagged. The combat tag timer is 30 sec
 
 ## King of the Hill
 
-Every two hours, King of the Hill will start near spawn. Take a left next to the auction house, then go inside the mountain and up the hill. King of the Hill is underneath the crashed UFO. The player in the red square for the longest is declared the winner. One needs to remain within the KoTH square until at least the last 15 seconds of KoTH to win. The prizes are equivalent to a rare [loot chest](broken-reference).
+Every two hours, King of the Hill will start near spawn. Take a left next to the auction house, then go inside the mountain and up the hill. King of the Hill is underneath the crashed UFO. The player in the red square for the longest is declared the winner. One needs to remain within the KoTH square until at least the last 15 seconds of KoTH to win.
 
 Note: This isn't some kind of special mini-game where KeepInventory is on. You can still lose hearts and items. That's the risk you are taking.
 
