@@ -61,6 +61,10 @@
 * [Teams](lifesteal/teams.md)
 * [Economy](lifesteal/economy.md)
 * [Fishing](lifesteal/fishing.md)
+* [Quests](lifesteal/quests/README.md)
+  * [Cowboys Vs. Aliens](lifesteal/quests/cowboys-vs.-aliens.md)
+  * [Ancient Builders](lifesteal/quests/ancient-builders.md)
+  * [The Trial](lifesteal/quests/the-trial.md)
 * [Skills](lifesteal/skills/README.md)
   * [Anti-Grav Drive](lifesteal/skills/anti-grav-drive.md)
   * [Philosopher's Stone](lifesteal/skills/philosophers-stone.md)
@@ -76,11 +80,12 @@
   * [Beast Master](lifesteal/skills/beast-master.md)
   * [Implant Techniques](lifesteal/skills/implant-techniques.md)
   * [Forester](lifesteal/skills/forester.md)
+  * [Maces](lifesteal/skills/maces.md)
   * [Other Skills](lifesteal/skills/other-skills.md)
 * [Crates](lifesteal/crates.md)
 * [Enchanting](lifesteal/enchanting.md)
 * [Honor System](lifesteal/honor-system.md)
-* [Quests](lifesteal/quests.md)
+* [Quests](lifesteal/quests-1.md)
 
 ## Creative
 

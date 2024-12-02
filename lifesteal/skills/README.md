@@ -1,14 +1,14 @@
 ---
+icon: wand-sparkles
 description: >-
   We have a complex skill tree system using a custom retranslation of the
   extremely popular plugin McMMO. It can significantly affect your PvP
   experience. Click on one of the skills below to learn more.
-icon: wand-sparkles
 ---
 
 # Skills
 
-Our magic system, known as Soul Affinity, allows you to use your cybernetic implants to level up your abilities well beyond the Vanilla gameplay loop. For in-game information about the skills, simply type "/" then type the skill name, for example -> `/antigravdrive`&#x20;
+Our magic system, known as Soul Arts and by extension Soul Affinity, allows you to use your cybernetic implants to level up your abilities well beyond the Vanilla gameplay loop. You can open the Soul Arts GUI with `/skills`. For in-game information about specific skills, simply type "/" then type the skill name, for example -> `/antigravdrive`&#x20;
 
 You can also type `/<skill name> ? <page number>` to learn even more about said skill.
 
@@ -99,6 +99,12 @@ Usage -> `/implanttechniques`
 Claim nature's bounty with your cybercharged foresting skills. Child skills: Lumberer, Roaring Winds, Master Lumberer, Terra Recombination, Lumber Processor, Lumberjack, Bark Synthesizer, and Soul Nature.
 
 Usage -> `/forester`
+
+### [Maces](maces.md)
+
+Maces is all about smashing your foes with a mace.
+
+Usage -> `/maces`
 
 ### [Other Skills](other-skills.md)
 
