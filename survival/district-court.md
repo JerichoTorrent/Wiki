@@ -1,15 +1,15 @@
 ---
+icon: gavel
 description: >-
   An overview of our proprietary Torrent Court System. We have had several
   criminal and civil proceedings take place on this server.
-icon: gavel
 ---
 
 # District Court
 
 ## Initiating a Court Proceeding
 
-The Torrent District Court is located on the Survival server in the Municipal District, right next to the Axél Village portal. There are many reasons why a court proceeding may take place, and criminal charges or civil liabilities can occur on any server. The primary reason for the Court is just for fun. Sometimes, a more engaging story can come from going to court instead of a moderator banning the offender.\
+The Torrent District Court is located on the Survival server in the Municipal District, right next to the Axél Village warp. There are many reasons why a court proceeding may take place, and criminal charges or civil liabilities can occur on any server. The primary reason for the Court is just for fun. Sometimes, a more engaging story can come from going to court instead of a moderator banning the offender.\
 \
 If a player commits some kind of crime or tortious interference, you can initiate a court proceeding by contacting a moderator. When that occurs, if the Torrent District Attorney feels that criminal charges are worth pursuing, a criminal court proceeding could take place. In that case, a judge will be chosen, and the case will start relatively soon after. If the case goes to trial, a trial date will be announced in Discord and a jury will be chosen.\
 \

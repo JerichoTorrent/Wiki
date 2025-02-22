@@ -1,8 +1,8 @@
 ---
+icon: sack-dollar
 description: >-
   The economy is a unique system to inspire players to trade, start businesses,
   and pay for services.
-icon: sack-dollar
 ---
 
 # Economy
@@ -11,11 +11,11 @@ The economy is, perhaps, the most complex system on the server, so I would recom
 
 ## **How to Make Money**
 
-The first thing you will want to do on the server is claim a starter kit which contains $2,000. You can either run `/kit starter` or click on Master Chief at spawn. You can also use `/sellgui` and drag and drop items from your inventory into the menu. Upon closing it or clicking the nether star, any eligible items will be sold, and any ineligible items will be returned to your inventory. You can also earn money by [voting](../voting.md). Each vote is worth $500, and you can also trade voting points for money using `/voteshop`.\
+You can use `/sellgui` and drag and drop items from your inventory into the menu. Upon closing it or clicking the nether star, any eligible items will be sold, and any ineligible items will be returned to your inventory. You can also earn money by [voting](../voting.md). Each vote is worth $500, and you can also trade voting points for money using `/voteshop`.\
 \
-Another great way to make money is by completing [quests](quests/). These quests usually have monetary or sometimes, have specific item rewards without straying too far from the vanilla meta. For example, the quest Travelin' Torrent has a reward of $5,000. To really earn some cash, check out the [Clockwork Questline](quests/clockwork-questline/).\
+Another great way to make money is by completing quests. These quests usually have monetary or sometimes, have specific item rewards without straying too far from the vanilla meta. For example, the quest Travelin' Torrent has a reward of $5,000. To really earn some cash, check out the Clockwork Questline.\
 \
-Another thing a lot of players do is offer their services to others. Players make posts in #bounties about items or services they need. You can claim these bounties by talking in a thread and fulfilling your end of the bargain. People will also offer or make requests in chat to see who is available to make a trade. A great place to meet and trade is at the Teleportation Hub or the Nether Hub. Finally, you can create a shop, which requires approval from staff.
+Another thing a lot of players do is offer their services to others. Players make posts in #looking-for about items or services they need. You can claim these bounties by talking in a thread and fulfilling your end of the bargain. People will also offer or make requests in chat to see who is available to make a trade. A great place to meet and trade is at Spawn or the Nether Hub. Finally, you can create a shop, which requires approval from staff.
 
 ## How to Make a Shop
 
