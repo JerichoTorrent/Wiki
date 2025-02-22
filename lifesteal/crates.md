@@ -41,7 +41,7 @@ The spawner crate contains a plethora of spawners from many different mobs. Depe
 
 This crate contains an assortment of heart items, from heart fragments to a dozen full hearts. You get one reward per pull. Remember, the maximum heart limit is 20, but you can physically carry or store extra heart items and right click them to add them to your hearts when your limit is less than 20. Use `/buy` or visit our [webstore](https://torrent.tebex.io) to purchase a key.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Heart Crate Rewards</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Heart Crate Rewards</p></figcaption></figure>
 
 ## Rare
 

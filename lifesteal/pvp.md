@@ -33,7 +33,7 @@ Bounties are viewable in the `/bounty` menu as well as on the bounty board in th
 
 ## Other Metas
 
-Many other PvP metas may become useful over time, or be discovered by the player base. These includes advanced [enchantments](enchanting.md), MMO [skills](skills/), [teaming](teams.md), TPA trapping, and many more. You can use any tools at your disposal to defeat other players. Finding custom items through questing may also prove fruitful. Get creative and discover the new Torrent Lifesteal meta yourself!
+Many other PvP metas may become useful over time, or be discovered by the player base. These includes advanced [enchantments](enchanting.md), MMO [skills](../skills/), [teaming](teams.md), TPA trapping, and many more. You can use any tools at your disposal to defeat other players. Finding custom items through questing may also prove fruitful. Get creative and discover the new Torrent Lifesteal meta yourself!
 
 {% hint style="info" %}
 There are cooldowns for ender pearls, golden apples, and enchanted golden apples!

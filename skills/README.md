@@ -2,8 +2,8 @@
 icon: wand-sparkles
 description: >-
   We have a complex skill tree system using a custom retranslation of the
-  extremely popular plugin McMMO. It can significantly affect your PvP
-  experience. Click on one of the skills below to learn more.
+  extremely popular plugin McMMO. It can significantly affect your experience.
+  Click on one of the skills below to learn more.
 ---
 
 # Skills

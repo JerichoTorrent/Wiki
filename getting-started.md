@@ -17,7 +17,7 @@ For the players that wish to simply experience the vanilla-like gameplay Torrent
 \
 Some players itch for new content, so we try to add unique features based on community input. In lieu of "seasons," we have "expansions," in an effort to never reset the world but not run out of content. There are lots of ways to get started, but I recommend first making a starter base; either using the random teleporter or finding a spot in or near a village, partnering up with others, or just venturing out on your own. Once your starter base is complete, it might behoove you to make some money using our [Economy](survival/economy.md) guide.\
 \
-Whichever way you want to play on the server, I would highly recommend exploring it first. Start with exploring spawn, clicking on all the NPCs, and learning what commands you can run. A great way to explore the server is by traveling to the [Teleportation Hub](survival/teleportation-hub/) and going through each portal. There will be a return portal nearby. Alternatively, you can activate the [quest](survival/quests/) "Travelin' Torrent."
+Whichever way you want to play on the server, I would highly recommend exploring it first. Start with exploring spawn, clicking on all the NPCs, and learning what commands you can run. A great way to explore the server is by traveling to the [Teleportation Hub](broken-reference) and going through each portal. There will be a return portal nearby. Alternatively, you can activate the [quest](survival/quests/) "Travelin' Torrent."
 
 ## <mark style="color:green;">**Creative**</mark>
 

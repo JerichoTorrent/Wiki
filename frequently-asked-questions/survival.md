@@ -7,7 +7,7 @@ description: Questions about the Survival server and its in-game systems.
 
 ### **How do I teleport, get back to spawn, TPA to my friend, etc.?**
 
-On Survival, an emphasis is placed on real-world travel and our Districts. For this reason, we've disabled most teleportation commands and replaced them with portals and NPCs. You can easily get back to spawn with `/spawn`, but that is the only actual teleportation command you can use from anywhere. To build a portal back to the hub for easy linking, use an [Access Point](../survival/teleportation-hub/access-points.md). To randomly teleport, use one of two portals. One is in the [Teleportation Hub](../survival/teleportation-hub/) and one is at Spawn Academy. Warps are disabled. To TPA, use the Teleportation Master in the second floor of the Teleportation Hub.
+On Survival, an emphasis is placed on real-world travel and our Districts. For this reason, we've disabled most teleportation commands and replaced them with portals and NPCs. You can easily get back to spawn with `/spawn`, but that is the only actual teleportation command you can use from anywhere. To build a portal back to the hub for easy linking, use an [Access Point](broken-reference). To randomly teleport, use one of two portals. One is in the [Teleportation Hub](broken-reference) and one is at Spawn Academy. Warps are disabled. To TPA, use the Teleportation Master in the second floor of the Teleportation Hub.
 
 ### **How do I make and spend money?**
 
@@ -15,7 +15,7 @@ Read our full Survival Economy guide [here](../survival/economy.md). In general,
 
 ### **How do I start the main quest?**
 
-Go to spawn (using `/spawn` or the [Teleportation Hub](../survival/teleportation-hub/)) and start the quest BitTorrent Peer-to-Peer Protocol with the Torrent Recruiter. He will take you to the Quest Emporium (near 0/0) which is a hub of sorts. After getting your lay of the land with the quest Travelin' Torrent, given to you by the Torrent Contractor, you will be ready to start the main quest. In the back room of the Quest Emporium is the NPC Direnni. Talk to him to start the 1st quest, [An Odd Request](../survival/quests/clockwork-questline/an-off-request.md).
+Go to spawn (using `/spawn` or the [Teleportation Hub](broken-reference)) and start the quest BitTorrent Peer-to-Peer Protocol with the Torrent Recruiter. He will take you to the Quest Emporium (near 0/0) which is a hub of sorts. After getting your lay of the land with the quest Travelin' Torrent, given to you by the Torrent Contractor, you will be ready to start the main quest. In the back room of the Quest Emporium is the NPC Direnni. Talk to him to start the 1st quest, [An Odd Request](../survival/quests/clockwork-questline/an-off-request.md).
 
 ### **Can I PvP?**
 

@@ -1,6 +1,7 @@
 ---
-description: The RPG aspects of the server.
 icon: book-open
+description: The RPG aspects of the server.
+hidden: true
 ---
 
 # Quests

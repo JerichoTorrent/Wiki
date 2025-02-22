@@ -19,7 +19,7 @@ You can join our Discord server by typing `/discord` which will send you a link 
 
 ## Emojis
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Cowboy emoji</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Cowboy emoji</p></figcaption></figure>
 
 To use emojis, you can type `/emoji` or just type `:` and press "tab" to pull up the emojis options. You can select from the list and click tab again to complete it. There are also hidden unicode emojis! Find them :smile:
 
