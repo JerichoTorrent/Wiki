@@ -10,7 +10,7 @@ You are searching for Numinar, a resident of Clockwork City. He can be found str
 
 <figure><img src="../../../.gitbook/assets/2024-07-10_16.16.19.png" alt=""><figcaption><p>Piston Bolt Network</p></figcaption></figure>
 
-Go straight from the piston bolt network exit and continue into the town square. Be careful not to enter the Teleportation Array, but if you do, simply take the return portal to Clockwork City on the second floor of the [Teleportation Hub](broken-reference).&#x20;
+Go straight from the piston bolt network exit and continue into the town square. Be careful not to enter the Teleportation Array, but if you do, simply take the warp to Clockwork City from spawn.&#x20;
 
 In the rear oxidized copper building straight back and on the second floor, you will find Numinar. Talk to him to complete the quest.
 
