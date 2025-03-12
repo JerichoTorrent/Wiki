@@ -1,8 +1,8 @@
 ---
-icon: square-poll-vertical
 description: >-
   Voting for the servers is one of the quickest ways to make money and earn
   rewards, as well as support our servers.
+icon: square-poll-vertical
 ---
 
 # Voting
@@ -17,6 +17,7 @@ You can spend your voting points in `/voteshop`. Currently, you can exchange vot
 | ------------------ | --------------- | ----------------- |
 | Survival/Lifesteal | Diamond         | 3 Voting Points   |
 | Survival/Lifesteal | $10,000         | 10 Voting Points  |
+| Creative           | Plot Grant      | 16 Voting Points  |
 | Survival/Lifesteal | Mending Book    | 50 Voting Points  |
 | Lifesteal          | Gem             | 50 Voting Points  |
 | Survival/Lifesteal | Elytra          | 100 Voting Points |

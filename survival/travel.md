@@ -43,3 +43,4 @@ Build your pathway, rail line, or ice boat road bridging off from an existing ro
 * You can use `/tpahere` to request a player to teleport to you
 * You can use `/tpaccept` and `/tpdeny` to accept or deny a teleportation request
 * You can use `/mail new`, write a request to build a teleportation chamber using catstone (proprietary) or ender pearl statis chambers (fully Vanilla mind you) and use `/mail send kiokugames` to get our chief redstone engineer on the case.
+* You can use the Random Teleporter at spawn to go to a random location
