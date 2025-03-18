@@ -8,9 +8,7 @@ icon: xbox
 
 # How to Join on Console
 
-## <mark style="color:green;">Xbox</mark> and <mark style="color:blue;">PlayStation</mark>
-
-### Option 1
+## <mark style="color:blue;">PlayStation</mark>
 
 • Download the **BedrockTogether** app on mobile for IOS or Google Play. If Bedrock together doesn't work, you can try a paid app called MC Lan Proxy.
 
@@ -27,9 +25,9 @@ icon: xbox
 
 • You can now select the server to begin connecting. Once you're connected, you can then close the BedrockTogether app
 
-### Option 2 (<mark style="color:green;">Xbox</mark> Only)
+## <mark style="color:green;">Xbox</mark>
 
-Add Jerich03055 as a friend on Xbox. He is ALWAYS running a session of the server. You can simply join his game from your friend's list.
+Add PlayTorrent as a friend on Xbox. He is ALWAYS running a session of the server. You can simply join his game from your friend's list.
 
 ## <mark style="color:red;">Nintendo Switch</mark>
 
