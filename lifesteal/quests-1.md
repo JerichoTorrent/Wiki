@@ -2,6 +2,7 @@
 description: >-
   A description of the Lifesteal specific Quests, detailing the journey of the
   return of the Artorian aliens.
+hidden: true
 icon: book-open
 ---
 

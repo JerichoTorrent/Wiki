@@ -1,6 +1,6 @@
 ---
-icon: sword
 description: An explanation of the PvP mechanics on Torrent Lifesteal.
+icon: sword
 ---
 
 # PvP
@@ -19,17 +19,23 @@ When you enter combat, you will be combat tagged. The combat tag timer is 30 sec
 
 ## King of the Hill
 
-Every two hours, King of the Hill will start near spawn. Take a left next to the auction house, then go inside the mountain and up the hill. King of the Hill is underneath the crashed UFO. The player in the red square for the longest is declared the winner. One needs to remain within the KoTH square until at least the last 15 seconds of KoTH to win.
+Every two hours, King of the Hill will start near spawn. Head North from spawn, turn left at the fork and go up the stairs to the crashed meteor. The player in the red square for the longest is declared the winner. One needs to remain within the KoTH square until at least the last 15 seconds of KoTH to win.
 
 Note: This isn't some kind of special mini-game where KeepInventory is on. You can still lose hearts and items. That's the risk you are taking.
 
-<figure><img src="../.gitbook/assets/2024-11-01_20.52.13.png" alt=""><figcaption><p>King of the Hill</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-06-08_13.15.19.png" alt=""><figcaption><p>King of the Hill</p></figcaption></figure>
 
 ## Bounties
 
 By using `/bounty`, it will open up a menu where you can view the current bounties, or set your own bounties on a player. You may want to set a bounty on a player who has wronged you in some way, or someone who is overly powerful and needs to be taken down a peg. The player who kills the player with a bounty on him will receive the bounty amount in full.
 
-Bounties are viewable in the `/bounty` menu as well as on the bounty board in the Sheriff's Office. This board will automatically update when a new bounty is added, and they are ranked from left to right by order of the bounty amount.
+Bounties are viewable in the `/bounty` menu as well as on the bounty board at spawn. This board will automatically update when a new bounty is added, and they are ranked from left to right by order of the bounty amount.
+
+## Crystal PvP
+
+<figure><img src="../.gitbook/assets/cpvp2.png" alt=""><figcaption><p>Crystal PvP Arena</p></figcaption></figure>
+
+Some people are crystal PvP sweats, and some people hate it with a passion. We respect both parties equally. That is why we created a crystal PvP arena for you to enjoy to your hearts content. The warp is `/warp cpvp` or you can take the CPvP teleportation array at spawn. Jump in the hole and blow each other up to your heart's content. Be warned, there is NO KeepInventory, so it may be difficult to escape once you jump in and get combat tagged. We do not provide support for skill issues.
 
 ## Other Metas
 

@@ -9,6 +9,6 @@ On this server, you can catch custom fish with any fishing rod! The fish rank fr
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-11-13 004559.png" alt=""><figcaption><p>Legendary Fish</p></figcaption></figure>
 
-When you catch some good fish, make sure to sell them at the Fisherman NPC near the bridge at Spawn. Fishing is a good money-maker!
+When you catch some good fish, make sure to sell them at the Fisherman NPC near the ports at Spawn. Fishing is a good money-maker!
 
 <figure><img src="../.gitbook/assets/2024-11-13_00.43.14.png" alt=""><figcaption><p>Fisherman NPC</p></figcaption></figure>

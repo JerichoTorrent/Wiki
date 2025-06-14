@@ -1,5 +1,6 @@
 ---
 description: A description of the questline on Lifesteal
+hidden: true
 icon: book-open
 ---
 
