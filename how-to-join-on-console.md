@@ -27,7 +27,7 @@ icon: xbox
 
 ## <mark style="color:green;">Xbox</mark>
 
-Add PlayTorrent as a friend on Xbox. He is ALWAYS running a session of the server. You can simply join his game from your friend's list.
+Add `PlayTorrent` as a friend on Xbox. He is ALWAYS running a session of the server. You can simply join his game from your friend's list.
 
 ## <mark style="color:red;">Nintendo Switch</mark>
 
@@ -39,7 +39,7 @@ Add PlayTorrent as a friend on Xbox. He is ALWAYS running a session of the serve
 
 • Locate the DNS Settings option and select "Manual"
 
-• Select the Primary DNS option and set the value to 173.82.100.84 if you’re in the US,&#x20;
+• Select the Primary DNS option and set the value to 173.82.100.84 if you’re in the US,
 
 • Select the Secondary DNS option and enter 1.1.1.1
 
@@ -61,6 +61,6 @@ Add PlayTorrent as a friend on Xbox. He is ALWAYS running a session of the serve
 
 • On Windows and mobile devices, you don’t need third party apps nor do you need to change DNS settings. Simply click add server and type in the IP like normal.
 
-[Tutorial video for Switch and Xbox One](https://youtu.be/B\_oPHl5gz\_c)
+[Tutorial video for Switch and Xbox One](https://youtu.be/B_oPHl5gz_c)
 
 [Tutorial video for Playstation](https://www.youtube.com/watch?v=DoblpRxVxQY)

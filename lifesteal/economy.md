@@ -79,7 +79,7 @@ To deposit the bank note, right-click the currently held banknote or tap-hold on
 
 Torrent Lifesteal provides kits! An NPC at spawn will provide you with at least one kit every 60 minutes (starter kit.) The kit includes a full diamond armor set and weapon/toolset. You are also provided some golden apples and food. Everything you need to avoid or bypass spawn campers and get out into the wild!
 
-You may go back to /spawn and obtain a new kit, even if your current kit is fully intact, allowing you to save up a few backup sets for PvP carnage. Tactical use of the kits can make a major difference in keeping you alive, use them wisely! While you're at `/spawn`, spend some time in the AFK Pit to earn rewards, or participate in the nearby King of the Hill competition.
+You may go back to `/spawn` and obtain a new kit, even if your current kit is fully intact, allowing you to save up a few backup sets for PvP carnage. Tactical use of the kits can make a major difference in keeping you alive, use them wisely! While you're at `/spawn`, spend some time in the AFK Pit to earn rewards, or participate in the nearby King of the Hill competition.
 
 ## XP Bottles
 

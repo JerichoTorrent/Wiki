@@ -1,6 +1,6 @@
 ---
-icon: swords
 description: Questions about our MMORPG Lifesteal server.
+icon: swords
 ---
 
 # Lifesteal
@@ -25,14 +25,6 @@ You will respawn with 5 hearts if your death ban expires, or if you get revived 
 
 Yes.
 
-### When did Season 2 launch?
-
-November 2nd, 2024.
-
-### How often are key-alls in Season 2?
-
-Rare key-alls will take place once daily in Season 2. When is it you might ask? Who knows? Better be online 24/7 just to be safe.
-
 ### How often is KoTH?
 
 King of the Hill runs every 2 hours.
@@ -41,10 +33,6 @@ King of the Hill runs every 2 hours.
 
 The honor value (integer) represents the total honor a player has, either positive or negative. For various reasons it's also easier to express it as a percentage, so in the GUI that is how it shows up. Every 2 honor points raises or lowers the percentage by 1. 0% means -100 honor, while 100% means +100 honor.
 
-### When will the guild system be introduced?
+### How long will Season 3 last?
 
-Guilds will likely be implemented around the 1 month mark of Season 2. This should give players enough time to build up honor in either direction to join one of the two guilds. For now, honor is a measure of a player's character.
-
-### How long will Season 2 last?
-
-Season 1 lasted 5 months (June 1st,2024 -> October 31st, 2024). If we have the same level of activity, Season 2 will also last 5 months. However, if players are still active and having fun, which honestly is expected due to the excitement surrounding the release, we will probably continue the season for longer. Essentially, it depends on you!
+Season 1 lasted 5 months. Season 2 also lasted 5 months. Season 3 will likely last around 3-5 months.
